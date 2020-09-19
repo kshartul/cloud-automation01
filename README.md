@@ -10,7 +10,7 @@ Ansible : Donwload Package, Enable Services, validate infrastrucuture readiness 
 
    terraform plan   -Description on the action items and To-Do 
 
-   terraform apply  -Perform the action items to provision the servers, instances, applications, security groups, vpc, cidr, ingress/outgress ruls
+   terraform apply  -Perform the action items to provision the servers, instances, applications, security groups, vpc, cidr, ingress/outgress rules, route table, NACL etc
 
 
 2) Run ansible playbook from ansible folder at terminal
