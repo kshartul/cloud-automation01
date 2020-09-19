@@ -14,6 +14,7 @@ Ansible : Donwload Package, Enable Services, validate infrastrucuture readiness 
 
 
 2) Run ansible playbook from ansible folder at terminal
+
    ansible-playbook -i hosts test.yaml 
 
 
